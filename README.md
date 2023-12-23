@@ -1,2 +1,2 @@
 # 3D_peli_unity
-Käyttäen C#.
+Käyttäen C#. Unityllä toteutettu 3D-Peli. 
