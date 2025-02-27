@@ -1,2 +1,3 @@
 # 3D_peli_unity
-Käyttäen C#. Unityllä toteutettu 3D-Peli. 
+Unityllä toteutettu 3D-Peli käyttäen C#-kieltä.
+Tehty opintojeni kolmantena vuonna.
